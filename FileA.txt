@@ -1,5 +1,4 @@
 This is FileA
-Tracking a change
-Making another change
-Now new change added
-again adding for jenkins
+This is changed today
+
+D:\Madan\GitCODE-del\git-tutorial\FileA.txt
